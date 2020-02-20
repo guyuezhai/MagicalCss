@@ -2,7 +2,8 @@
 some wonderfull css case
 
 * 走马灯效果
-
+* canvas 时钟
+  
 ```
      <style>
         .riding{
@@ -30,3 +31,5 @@ some wonderfull css case
         </span>
     </div>
 ```
+
+![canvas 时钟](https://github.com/guyuezhai/MagicalCss/image/clock.jpg "canvas 时钟")
