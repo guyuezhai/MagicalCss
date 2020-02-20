@@ -32,4 +32,4 @@ some wonderfull css case
     </div>
 ```
 
-![canvas 时钟](https://github.com/guyuezhai/MagicalCss/image/clock.jpg "canvas 时钟")
+![canvas 时钟](https://github.com/guyuezhai/MagicalCss/blob/master/image/clock.jpg "canvas 时钟")
